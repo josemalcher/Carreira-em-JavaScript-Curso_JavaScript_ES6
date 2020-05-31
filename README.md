@@ -16,9 +16,15 @@ APRENDA COM A EVOLUÇÃO, DESCUBRA TODOS OS NOVOS RECURSOS QUE A NOVA VERSÃO DO
 
 #### 01 - o que é ES6
 
+- Tabela de compatibilidade: https://kangax.github.io/compat-table/es6/
+
+- Comparação: http://es6-features.org/
 
 #### 02 - Ferramentas Curso ES6
 
+- Chrome: https://www.google.com/chrome/
+
+- Visual Studio Code: https://code.visualstudio.com/
 
 #### 03 - Preparar Projeto ES6
 
